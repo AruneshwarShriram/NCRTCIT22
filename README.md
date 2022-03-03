@@ -1,4 +1,4 @@
-# Official Webiste for 4th NCRTCIT Conference @ Sairam Institute Of Technology
+# Official Website for 4th NCRTCIT Conference @ Sairam Institute Of Technology
 
 # Getting Started with Create React App
 
